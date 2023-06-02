@@ -1,0 +1,23 @@
+.searchbar {
+    width: 500px;
+    height: 42px;
+    border-radius: 11px;
+    font-size: x-large;
+    padding-left: 20px;
+    margin-top: 25px;
+}
+
+.searchbar::placeholder {
+    font-size: x-large;
+    font-weight: bold;
+    opacity: 0.35;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    margin-top: 20px;
+}
+
+td {
+    vertical-align: middle;
+}
